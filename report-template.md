@@ -32,7 +32,7 @@ If I was given more time, I would spend it on identifying important features by 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
 
-![model_train_score.png](model_train_score.png)
+![model_train_score.png](model_test_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
