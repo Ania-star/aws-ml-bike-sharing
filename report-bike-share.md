@@ -40,6 +40,7 @@ If I was given more time, I would spend it on identifying important features by 
 
 ## Summary
 Using AutoGluon, I followed the step-by-step approach provided in the template. I started by training a basic model, then added new features, and finally tried hyperparameter tuning. The initial Kaggle score was 1.80587, and after adding datetime-based features, it improved to 0.61122. After tuning hyperparameters, the score dropped further to 0.55468. These results show that adding useful features and tuning the model can really help improve performance. If I had more time, I’d keep working on feature engineering and experimenting with different model settings.
+
 --
 ## Note
 HTML file was too large for GitHub to preview, I created a live page that can be accessed here: https://ania-star.github.io/aws-ml-bike-sharing/
