@@ -1,12 +1,12 @@
 # Report: Predict Bike Sharing Demand with AutoGluon Solution
-#### Anna Bajszczak
+#### NAME HERE
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
-TODO: I didn’t realize anything, but I learned from the provided note that Kaggle would reject submissions with negative prediction values, so I followed that guidance. I checked my predictions and confirmed that all values were positive; however, to be on the safe side, I also clipped any values below 0 to exactly 0. 
+TODO: Add your explanation
 
 ### What was the top ranked model that performed?
-TODO: The top ranked model WeightedEnsemble_L3, with a validation RMSE of -53.177545 and a Kaggle score of 1.80587.
+TODO: Add your explanation
 
 ## Exploratory data analysis and feature creation
 ### What did the exploratory analysis find and how did you add additional features?
